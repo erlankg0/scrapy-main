@@ -1,0 +1,67 @@
+{
+    "auto": {
+        "new": true,
+        "id": "4347",
+        "brand": "Lada",
+        "model": "Granta ���������",
+        "generation": "2023-02-17",
+        "year": "2023-02-17",
+        "modification": "1.6 �� (106 �.�.)",
+        "price": 683500,
+        "credit_from": 14858,
+        "power": "106",
+        "fuel_consumption": "5.2",
+        "max_speed": "182",
+        "acceleration": "10.7",
+        "transmission": "������������",
+        "drive_unit": "�������� (FDW)",
+        "body_type": "����������",
+        "volume": "1.6",
+        "engine_type": "����������",
+        "secure": [
+            "������� ������������ ���������",
+            "������� ������ ��� ���������� (BAS, EBD)",
+            "���-�������",
+            "����������������� ������� (ABS)",
+            "������� ������������ ��������",
+            "��������� �������� ������ (������ ���) ISOFIX",
+            "���������� ������ ������ ������",
+            "����������� �����",
+            "������������"
+        ],
+        "exterior": [
+            "�������� �� �����",
+            "�������� �����",
+            "������������ ��������",
+            "�������������� �������� ������"
+        ],
+        "interior": [
+            "�������������� ������ �������",
+            "����� (�������� ������)"
+        ],
+        "comfort": [
+            "������������� ������",
+            "�������� ���������",
+            "��������� ����",
+            "�����������",
+            "����������������������� ��������",
+            "����������� ���� �� ������",
+            "�������������� ������� ������",
+            "�������� �������� �������"
+        ],
+        "multimedia": [
+            "USB",
+            "������������",
+            "Bluetooth",
+            "������� 12V"
+        ],
+        "images": [
+            "LADA/lada_granta_universal/granta_universal1485843470.jpg",
+            "LADA/lada_granta_universal/granta_universal1485843471.jpg",
+            "LADA/lada_granta_universal/granta_universal1485843472.jpg",
+            "LADA/lada_granta_universal/granta_universal1485843473.jpg",
+            "LADA/lada_granta_universal/granta_universal1485843474.jpg",
+            "LADA/lada_granta_universal/granta_universal1485843475.jpg"
+        ]
+    }
+}

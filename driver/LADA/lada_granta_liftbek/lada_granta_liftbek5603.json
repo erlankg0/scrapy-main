@@ -1,0 +1,66 @@
+{
+    "auto": {
+        "new": true,
+        "id": "5603",
+        "brand": "Lada",
+        "model": "Granta �������",
+        "generation": "2023-02-17",
+        "year": "2023-02-17",
+        "modification": "1.6 �� (106 �.�.)",
+        "price": 676500,
+        "credit_from": 14706,
+        "power": "106",
+        "fuel_consumption": "5.2",
+        "max_speed": "183",
+        "acceleration": "10.6",
+        "transmission": "������������",
+        "drive_unit": "�������� (FDW)",
+        "body_type": "����������",
+        "volume": "1.6",
+        "engine_type": "����������",
+        "secure": [
+            "������� ������������ ���������",
+            "������� ������ ��� ���������� (BAS, EBD)",
+            "���-�������",
+            "����������������� ������� (ABS)",
+            "������� ������������ ��������",
+            "��������� �������� ������ (������ ���) ISOFIX",
+            "���������� ������ ������ ������",
+            "����������� �����",
+            "������������"
+        ],
+        "exterior": [
+            "�������� �����",
+            "������������ ��������",
+            "�������������� �������� ������"
+        ],
+        "interior": [
+            "�������������� ������ �������",
+            "����� (�������� ������)",
+            "�������� �������� �������"
+        ],
+        "comfort": [
+            "������������� ������",
+            "�������� ���������",
+            "��������� ����",
+            "�����������",
+            "����������������������� ��������",
+            "����������� ���� �� ������",
+            "�������������� ������� ������"
+        ],
+        "multimedia": [
+            "USB",
+            "������������",
+            "Bluetooth",
+            "������� 12V"
+        ],
+        "images": [
+            "LADA/lada_granta_liftbek/granta_liftbek1470656030.jpg",
+            "LADA/lada_granta_liftbek/granta_liftbek1470656031.jpg",
+            "LADA/lada_granta_liftbek/granta_liftbek1470656032.jpg",
+            "LADA/lada_granta_liftbek/granta_liftbek1470656033.jpg",
+            "LADA/lada_granta_liftbek/granta_liftbek1470656034.jpg",
+            "LADA/lada_granta_liftbek/granta_liftbek1470656035.jpg"
+        ]
+    }
+}

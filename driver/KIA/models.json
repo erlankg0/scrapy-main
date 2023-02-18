@@ -1,0 +1,68 @@
+{
+    "models": [
+        {
+            "name": "Kia_Picanto",
+            "url": "https://franko-auto.ru/cars/kia/picanto/"
+        },
+        {
+            "name": "Kia_Rio",
+            "url": "https://franko-auto.ru/cars/kia/rio/"
+        },
+        {
+            "name": "Kia_Rio_X-Line",
+            "url": "https://franko-auto.ru/cars/kia/rio_x_line/"
+        },
+        {
+            "name": "Kia_Rio_X",
+            "url": "https://franko-auto.ru/cars/kia/rio-x/"
+        },
+        {
+            "name": "Kia_Soul",
+            "url": "https://franko-auto.ru/cars/kia/soul/"
+        },
+        {
+            "name": "Kia_Ceed",
+            "url": "https://franko-auto.ru/cars/kia/new_ceed/"
+        },
+        {
+            "name": "Kia_Ceed_SW",
+            "url": "https://franko-auto.ru/cars/kia/new_ceed_sw/"
+        },
+        {
+            "name": "Kia_Cerato",
+            "url": "https://franko-auto.ru/cars/kia/cerato/"
+        },
+        {
+            "name": "Kia_Seltos",
+            "url": "https://franko-auto.ru/cars/kia/seltos/"
+        },
+        {
+            "name": "Kia_Sportage",
+            "url": "https://franko-auto.ru/cars/kia/sportage/"
+        },
+        {
+            "name": "Kia_K5",
+            "url": "https://franko-auto.ru/cars/kia/k5/"
+        },
+        {
+            "name": "Kia_XCeed",
+            "url": "https://franko-auto.ru/cars/kia/xceed/"
+        },
+        {
+            "name": "Kia_Sorento",
+            "url": "https://franko-auto.ru/cars/kia/sorento/"
+        },
+        {
+            "name": "Kia_Carnival",
+            "url": "https://franko-auto.ru/cars/kia/carnival/"
+        },
+        {
+            "name": "Kia_Stinger",
+            "url": "https://franko-auto.ru/cars/kia/stinger/"
+        },
+        {
+            "name": "Kia_Mohave",
+            "url": "https://franko-auto.ru/cars/kia/mohave/"
+        }
+    ]
+}

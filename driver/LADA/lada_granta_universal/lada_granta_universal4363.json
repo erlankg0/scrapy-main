@@ -1,0 +1,53 @@
+{
+    "auto": {
+        "new": true,
+        "id": "4363",
+        "brand": "Lada",
+        "model": "Granta Универсал",
+        "generation": "2023-02-17",
+        "year": "2023-02-17",
+        "modification": "1.6 МТ 8-кл. (90 л.с.)",
+        "price": 578900,
+        "credit_from": 12584,
+        "power": "90",
+        "fuel_consumption": "5.3",
+        "max_speed": "173",
+        "acceleration": "11.2",
+        "transmission": "Механическая",
+        "drive_unit": "Передний (FDW)",
+        "body_type": "неизвестно",
+        "volume": "1.6",
+        "engine_type": "Бензиновый",
+        "secure": [
+            "Система помощи при торможении (BAS, EBD)",
+            "ЭРА-ГЛОНАСС",
+            "Антиблокировочная система (ABS)",
+            "Подушка безопасности водителя",
+            "Крепление детского кресла (задний ряд) ISOFIX",
+            "Блокировка замков задних дверей",
+            "Центральный замок",
+            "Иммобилайзер"
+        ],
+        "exterior": [
+            "Рейлинги на крыше",
+            "Стальные диски",
+            "Полноразмерное запасное колесо"
+        ],
+        "interior": [
+            "Ткань (Материал салона)"
+        ],
+        "comfort": [],
+        "multimedia": [
+            "Аудиоподготовка",
+            "Розетка 12V"
+        ],
+        "images": [
+            "LADA/lada_granta_universal/granta_universal1258443630.jpg",
+            "LADA/lada_granta_universal/granta_universal1258443631.jpg",
+            "LADA/lada_granta_universal/granta_universal1258443632.jpg",
+            "LADA/lada_granta_universal/granta_universal1258443633.jpg",
+            "LADA/lada_granta_universal/granta_universal1258443634.jpg",
+            "LADA/lada_granta_universal/granta_universal1258443635.jpg"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "auto": {
+        "new": true,
+        "id": "4508",
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "generation": "2023-02-17",
+        "year": "2023-02-17",
+        "modification": "G2.0 6AT (150 Л.С.)",
+        "price": 1334000,
+        "credit_from": 29000,
+        "power": "150",
+        "fuel_consumption": "5.3",
+        "max_speed": "203",
+        "acceleration": "9.8",
+        "transmission": "Автоматическая",
+        "drive_unit": "Передний (FDW)",
+        "body_type": "неизвестно",
+        "volume": "2.0",
+        "engine_type": "Бензиновый",
+        "secure": [
+            "Боковые подушки безопасности водителя и переднего пассажира",
+            "Выбор режима движения (Drive mode select)",
+            "Задние датчики парковки"

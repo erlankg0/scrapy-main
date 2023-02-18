@@ -1,0 +1,24 @@
+{
+    "auto": {
+        "new": true,
+        "id": "4719",
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "generation": "2023-02-17",
+        "year": "2023-02-17",
+        "modification": "1.6 AT (128 Л.С.)",
+        "price": 1289000,
+        "credit_from": 28021,
+        "power": "128",
+        "fuel_consumption": "5.5",
+        "max_speed": "195",
+        "acceleration": "11.3",
+        "transmission": "Автоматическая",
+        "drive_unit": "Передний (FDW)",
+        "body_type": "неизвестно",
+        "volume": "1.6",
+        "engine_type": "Бензиновый",
+        "secure": [
+            "Боковые подушки безопасности водителя и переднего пассажира",
+            "Выбор режима движения (Drive mode select)",
+            "Задние датчики парковки"
