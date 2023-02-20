@@ -1,0 +1,12 @@
+{
+    "models": [
+        {
+            "name": "uaz_novyj_pikap",
+            "url": "https://franko-auto.ru/cars/uaz/pikap/"
+        },
+        {
+            "name": "uaz_patriot_new",
+            "url": "https://franko-auto.ru/cars/uaz/patriot/"
+        }
+    ]
+}

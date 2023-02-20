@@ -1,0 +1,16 @@
+{
+    "models": [
+        {
+            "name": "changan_cs35_plus",
+            "url": "https://franko-auto.ru/cars/changan/cs35_plus/"
+        },
+        {
+            "name": "changan_cs55",
+            "url": "https://franko-auto.ru/cars/changan/cs55/"
+        },
+        {
+            "name": "changan_cs75fl",
+            "url": "https://franko-auto.ru/cars/changan/cs75fl/"
+        }
+    ]
+}

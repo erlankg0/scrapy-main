@@ -1,0 +1,24 @@
+{
+    "models": [
+        {
+            "name": "skoda_rapid",
+            "url": "https://franko-auto.ru/cars/skoda/rapid/"
+        },
+        {
+            "name": "skoda_octavia",
+            "url": "https://franko-auto.ru/cars/skoda/octavia/"
+        },
+        {
+            "name": "skoda_karoq",
+            "url": "https://franko-auto.ru/cars/skoda/karoq/"
+        },
+        {
+            "name": "skoda_kodiaq",
+            "url": "https://franko-auto.ru/cars/skoda/kodiaq/"
+        },
+        {
+            "name": "skoda_superb",
+            "url": "https://franko-auto.ru/cars/skoda/superb/"
+        }
+    ]
+}

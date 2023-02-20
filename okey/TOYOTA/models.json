@@ -1,0 +1,20 @@
+{
+    "models": [
+        {
+            "name": "toyota_corolla",
+            "url": "https://franko-auto.ru/cars/toyota/corolla/"
+        },
+        {
+            "name": "toyota_rav4",
+            "url": "https://franko-auto.ru/cars/toyota/rav4/"
+        },
+        {
+            "name": "toyota_camry",
+            "url": "https://franko-auto.ru/cars/toyota/camry/"
+        },
+        {
+            "name": "toyota_c-hr",
+            "url": "https://franko-auto.ru/cars/toyota/c-hr/"
+        }
+    ]
+}

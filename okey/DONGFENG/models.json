@@ -1,0 +1,12 @@
+{
+    "models": [
+        {
+            "name": "dongfeng_ax7",
+            "url": "https://franko-auto.ru/cars/dongfeng/ax7/"
+        },
+        {
+            "name": "dongfeng_sk_580",
+            "url": "https://franko-auto.ru/cars/dongfeng/580/"
+        }
+    ]
+}

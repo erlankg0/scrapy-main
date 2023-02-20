@@ -1,0 +1,20 @@
+{
+    "models": [
+        {
+            "name": "nissan_terrano",
+            "url": "https://franko-auto.ru/cars/nissan/terrano/"
+        },
+        {
+            "name": "nissan_qashqai",
+            "url": "https://franko-auto.ru/cars/nissan/qashqai_new/"
+        },
+        {
+            "name": "nissan_x-trail_new",
+            "url": "https://franko-auto.ru/cars/nissan/x_trail/"
+        },
+        {
+            "name": "nissan_murano",
+            "url": "https://franko-auto.ru/cars/nissan/murano/"
+        }
+    ]
+}

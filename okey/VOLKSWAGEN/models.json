@@ -1,0 +1,24 @@
+{
+    "models": [
+        {
+            "name": "volkswagen_polo",
+            "url": "https://franko-auto.ru/cars/volkswagen/polo/"
+        },
+        {
+            "name": "volkswagen_jetta",
+            "url": "https://franko-auto.ru/cars/volkswagen/jetta/"
+        },
+        {
+            "name": "volkswagen_passat",
+            "url": "https://franko-auto.ru/cars/volkswagen/passat/"
+        },
+        {
+            "name": "volkswagen_tiguan",
+            "url": "https://franko-auto.ru/cars/volkswagen/tiguan/"
+        },
+        {
+            "name": "volkswagen_teramont",
+            "url": "https://franko-auto.ru/cars/volkswagen/teramont/"
+        }
+    ]
+}

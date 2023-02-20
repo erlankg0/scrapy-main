@@ -1,0 +1,24 @@
+{
+    "models": [
+        {
+            "name": "geely_atlas",
+            "url": "https://franko-auto.ru/cars/geely/atlas/"
+        },
+        {
+            "name": "geely_atlas_pro",
+            "url": "https://franko-auto.ru/cars/geely/atlas_pro/"
+        },
+        {
+            "name": "geely_gs",
+            "url": "https://franko-auto.ru/cars/geely/gs/"
+        },
+        {
+            "name": "geely_coolray",
+            "url": "https://franko-auto.ru/cars/geely/coolray/"
+        },
+        {
+            "name": "geely_tugella",
+            "url": "https://franko-auto.ru/cars/geely/tugella/"
+        }
+    ]
+}

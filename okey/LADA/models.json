@@ -1,0 +1,96 @@
+{
+    "models": [
+        {
+            "name": "lada_granta_sedan_new",
+            "url": "https://franko-auto.ru/cars/lada/granta_sd/"
+        },
+        {
+            "name": "lada_granta_universal",
+            "url": "https://franko-auto.ru/cars/lada/granta_sw/"
+        },
+        {
+            "name": "lada_granta_liftbek",
+            "url": "https://franko-auto.ru/cars/lada/granta_liftback/"
+        },
+        {
+            "name": "lada_granta_cross",
+            "url": "https://franko-auto.ru/cars/lada/granta_cross/"
+        },
+        {
+            "name": "lada_xray",
+            "url": "https://franko-auto.ru/cars/lada/xray/"
+        },
+        {
+            "name": "lada_xray_cross",
+            "url": "https://franko-auto.ru/cars/lada/xray_cross/"
+        },
+        {
+            "name": "lada_vesta",
+            "url": "https://franko-auto.ru/cars/lada/vesta/"
+        },
+        {
+            "name": "lada_vesta_sw",
+            "url": "https://franko-auto.ru/cars/lada/vesta_sw/"
+        },
+        {
+            "name": "lada_vesta_sw_cross",
+            "url": "https://franko-auto.ru/cars/lada/vesta_sw_cross/"
+        },
+        {
+            "name": "lada_vesta_cross",
+            "url": "https://franko-auto.ru/cars/lada/vesta_cross/"
+        },
+        {
+            "name": "lada_vesta_cng",
+            "url": "https://franko-auto.ru/cars/lada/vesta_cng/"
+        },
+        {
+            "name": "lada_vesta_sport",
+            "url": "https://franko-auto.ru/cars/lada/vesta-sport/"
+        },
+        {
+            "name": "lada_largus_furgon",
+            "url": "https://franko-auto.ru/cars/lada/largus_furgon/"
+        },
+        {
+            "name": "lada_largus_new_5_mest",
+            "url": "https://franko-auto.ru/cars/lada/largus_new_5/"
+        },
+        {
+            "name": "lada_largus_new_7_mest",
+            "url": "https://franko-auto.ru/cars/lada/largus_new_7/"
+        },
+        {
+            "name": "lada_largus_cross_new_5_mest",
+            "url": "https://franko-auto.ru/cars/lada/largus_cross_new_5/"
+        },
+        {
+            "name": "lada_largus_cross_new_7_mest",
+            "url": "https://franko-auto.ru/cars/lada/largus_cross_new_7/"
+        },
+        {
+            "name": "lada_niva_legend_3d",
+            "url": "https://franko-auto.ru/cars/lada/niva_legend_3d/"
+        },
+        {
+            "name": "lada_niva_legend_5d",
+            "url": "https://franko-auto.ru/cars/lada/niva_legend_5d/"
+        },
+        {
+            "name": "lada_niva_travel",
+            "url": "https://franko-auto.ru/cars/lada/niva-travel/"
+        },
+        {
+            "name": "lada_4x4_urban_3d",
+            "url": "https://franko-auto.ru/cars/lada/4x4_urban_3/"
+        },
+        {
+            "name": "lada_4x4_urban_5d",
+            "url": "https://franko-auto.ru/cars/lada/4x4_urban_5/"
+        },
+        {
+            "name": "lada_bronto",
+            "url": "https://franko-auto.ru/cars/lada/bronto/"
+        }
+    ]
+}

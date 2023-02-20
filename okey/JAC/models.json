@@ -1,0 +1,20 @@
+{
+    "models": [
+        {
+            "name": "jac_s3",
+            "url": "https://franko-auto.ru/cars/jac/s3/"
+        },
+        {
+            "name": "jac_j7",
+            "url": "https://franko-auto.ru/cars/jac/j7/"
+        },
+        {
+            "name": "jac_t6",
+            "url": "https://franko-auto.ru/cars/jac/t6/"
+        },
+        {
+            "name": "jac_s7",
+            "url": "https://franko-auto.ru/cars/jac/s7/"
+        }
+    ]
+}

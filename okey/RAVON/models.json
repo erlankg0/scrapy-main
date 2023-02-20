@@ -1,0 +1,20 @@
+{
+    "models": [
+        {
+            "name": "ravon_nexia_r3",
+            "url": "https://franko-auto.ru/cars/ravon/nexia_r3/"
+        },
+        {
+            "name": "ravon_r2",
+            "url": "https://franko-auto.ru/cars/ravon/r2/"
+        },
+        {
+            "name": "ravon_gentra",
+            "url": "https://franko-auto.ru/cars/ravon/gentra/"
+        },
+        {
+            "name": "ravon_r4",
+            "url": "https://franko-auto.ru/cars/ravon/r4/"
+        }
+    ]
+}

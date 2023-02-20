@@ -1,0 +1,12 @@
+{
+    "models": [
+        {
+            "name": "brilliance_v3",
+            "url": "https://franko-auto.ru/cars/brilliance/v3/"
+        },
+        {
+            "name": "brilliance_v5_1.5t",
+            "url": "https://franko-auto.ru/cars/brilliance/v5_1.5t/"
+        }
+    ]
+}

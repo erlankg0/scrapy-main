@@ -1,0 +1,20 @@
+{
+    "models": [
+        {
+            "name": "cheryexeed_txl",
+            "url": "https://franko-auto.ru/cars/cheryexeed/txl/"
+        },
+        {
+            "name": "cheryexeed_txl_new",
+            "url": "https://franko-auto.ru/cars/cheryexeed/txl_new/"
+        },
+        {
+            "name": "cheryexeed_lx",
+            "url": "https://franko-auto.ru/cars/cheryexeed/lx/"
+        },
+        {
+            "name": "cheryexeed_vx",
+            "url": "https://franko-auto.ru/cars/cheryexeed/vx/"
+        }
+    ]
+}

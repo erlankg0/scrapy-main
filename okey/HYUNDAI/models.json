@@ -1,0 +1,40 @@
+{
+    "models": [
+        {
+            "name": "hyundai_solaris",
+            "url": "https://franko-auto.ru/cars/hyundai/solaris/"
+        },
+        {
+            "name": "hyundai_creta",
+            "url": "https://franko-auto.ru/cars/hyundai/creta_old/"
+        },
+        {
+            "name": "hyundai_new_creta",
+            "url": "https://franko-auto.ru/cars/hyundai/creta/"
+        },
+        {
+            "name": "hyundai_elantra",
+            "url": "https://franko-auto.ru/cars/hyundai/elantra/"
+        },
+        {
+            "name": "hyundai_tucson",
+            "url": "https://franko-auto.ru/cars/hyundai/tucson_new/"
+        },
+        {
+            "name": "hyundai_sonata",
+            "url": "https://franko-auto.ru/cars/hyundai/sonata/"
+        },
+        {
+            "name": "hyundai_santa_fe",
+            "url": "https://franko-auto.ru/cars/hyundai/santa_fe/"
+        },
+        {
+            "name": "hyundai_palisade",
+            "url": "https://franko-auto.ru/cars/hyundai/palisade/"
+        },
+        {
+            "name": "hyundai_staria",
+            "url": "https://franko-auto.ru/cars/hyundai/staria/"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "models": [
+        {
+            "name": "chery_tiggo_4",
+            "url": "https://franko-auto.ru/cars/chery/tiggo_4/"
+        },
+        {
+            "name": "chery_tiggo_4_pro",
+            "url": "https://franko-auto.ru/cars/chery/tiggo_4_pro/"
+        },
+        {
+            "name": "chery_tiggo_7",
+            "url": "https://franko-auto.ru/cars/chery/tiggo_7/"
+        },
+        {
+            "name": "chery_tiggo_7_pro",
+            "url": "https://franko-auto.ru/cars/chery/tiggo_7_pro/"
+        },
+        {
+            "name": "chery_tiggo_8",
+            "url": "https://franko-auto.ru/cars/chery/tiggo_8/"
+        },
+        {
+            "name": "chery_new_tiggo_8",
+            "url": "https://franko-auto.ru/cars/chery/new_tiggo_8/"
+        },
+        {
+            "name": "chery_tiggo_8_pro",
+            "url": "https://franko-auto.ru/cars/chery/tiggo_8_pro/"
+        }
+    ]
+}

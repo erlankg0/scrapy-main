@@ -1,0 +1,16 @@
+{
+    "models": [
+        {
+            "name": "mazda_6",
+            "url": "https://franko-auto.ru/cars/mazda/6/"
+        },
+        {
+            "name": "mazda_cx-5",
+            "url": "https://franko-auto.ru/cars/mazda/cx-5/"
+        },
+        {
+            "name": "mazda_cx-9",
+            "url": "https://franko-auto.ru/cars/mazda/cx-9/"
+        }
+    ]
+}

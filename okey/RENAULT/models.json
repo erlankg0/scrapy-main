@@ -1,0 +1,32 @@
+{
+    "models": [
+        {
+            "name": "renault_logan",
+            "url": "https://franko-auto.ru/cars/renault/logan/"
+        },
+        {
+            "name": "renault_sandero",
+            "url": "https://franko-auto.ru/cars/renault/sandero/"
+        },
+        {
+            "name": "renault_logan_stepway",
+            "url": "https://franko-auto.ru/cars/renault/logan_stepway/"
+        },
+        {
+            "name": "renault_sandero_stepway",
+            "url": "https://franko-auto.ru/cars/renault/sandero_stepway/"
+        },
+        {
+            "name": "renault_duster",
+            "url": "https://franko-auto.ru/cars/renault/duster/"
+        },
+        {
+            "name": "renault_kaptur",
+            "url": "https://franko-auto.ru/cars/renault/kaptur/"
+        },
+        {
+            "name": "renault_arkana",
+            "url": "https://franko-auto.ru/cars/renault/arkana/"
+        }
+    ]
+}

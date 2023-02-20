@@ -1,0 +1,45 @@
+{
+    "auto": {
+        "new": true,
+        "brand": "Lada",
+        "model": "Granta Лифтбек",
+        "modification": "luxe",
+        "generation": "2023-02-20",
+        "engine": "1.6 AT",
+        "year": "2023-02-20",
+        "price": "741500",
+        "credit_from": 13990,
+        "power": "98",
+        "volume": "1.6",
+        "fuel_consumption": "6.1",
+        "max_speed": "174",
+        "acceleration": "13.3",
+        "transmission": "Автоматическая",
+        "drive_unit": "Передний (FDW)",
+        "engine_type": "Бензиновый",
+        "body_type": "неизвестно",
+        "secure": [
+            "Система помощи при торможении (BAS, EBD)",
+            "ЭРА-ГЛОНАСС",
+            "Антиблокировочная система (ABS)",
+            "Подушка безопасности водителя",
+            "Крепление детского кресла (задний ряд) ISOFIX",
+            "Блокировка замков задних дверей",
+            "Центральный замок",
+            "Иммобилайзер"
+        ],
+        "exterior": [
+            "Стальные диски",
+            "Полноразмерное запасное колесо"
+        ],
+        "interior": [
+            "Ткань (Материал салона)"
+        ],
+        "comfort": [],
+        "multimedia": [],
+        "other": [],
+        "image": [
+            "LADA/lada_granta_liftbek/lada_granta_liftbek.jpg"
+        ]
+    }
+}

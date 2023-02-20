@@ -1,0 +1,84 @@
+{
+    "brands": [
+        {
+            "name": "KIA",
+            "url": "https://franko-auto.ru/cars/kia/"
+        },
+        {
+            "name": "HYUNDAI",
+            "url": "https://franko-auto.ru/cars/hyundai/"
+        },
+        {
+            "name": "SKODA",
+            "url": "https://franko-auto.ru/cars/skoda/"
+        },
+        {
+            "name": "VOLKSWAGEN",
+            "url": "https://franko-auto.ru/cars/volkswagen/"
+        },
+        {
+            "name": "RENAULT",
+            "url": "https://franko-auto.ru/cars/renault/"
+        },
+        {
+            "name": "NISSAN",
+            "url": "https://franko-auto.ru/cars/nissan/"
+        },
+        {
+            "name": "LADA",
+            "url": "https://franko-auto.ru/cars/lada/"
+        },
+        {
+            "name": "UAZ",
+            "url": "https://franko-auto.ru/cars/uaz/"
+        },
+        {
+            "name": "RAVON",
+            "url": "https://franko-auto.ru/cars/ravon/"
+        },
+        {
+            "name": "GEELY",
+            "url": "https://franko-auto.ru/cars/geely/"
+        },
+        {
+            "name": "MAZDA",
+            "url": "https://franko-auto.ru/cars/mazda/"
+        },
+        {
+            "name": "HAVAL",
+            "url": "https://franko-auto.ru/cars/haval/"
+        },
+        {
+            "name": "CHANGAN",
+            "url": "https://franko-auto.ru/cars/changan/"
+        },
+        {
+            "name": "CHERY",
+            "url": "https://franko-auto.ru/cars/chery/"
+        },
+        {
+            "name": "BRILLIANCE",
+            "url": "https://franko-auto.ru/cars/brilliance/"
+        },
+        {
+            "name": "TOYOTA",
+            "url": "https://franko-auto.ru/cars/toyota/"
+        },
+        {
+            "name": "DONGFENG",
+            "url": "https://franko-auto.ru/cars/dongfeng/"
+        },
+        {
+            "name": "CHERYEXEED",
+            "url": "https://franko-auto.ru/cars/cheryexeed/"
+        },
+        {
+            "name": "JAC",
+            "url": "https://franko-auto.ru/cars/jac/"
+        },
+        {
+            "name": "OMODA",
+            "url": "https://franko-auto.ru/cars/omoda/"
+        }
+    ]
+}
